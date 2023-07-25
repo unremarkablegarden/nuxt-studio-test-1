@@ -1,1 +1,0 @@
-import{_ as n,f as o,l as t,q as c,k as _}from"./entry.b7ba0d6d.js";const s={};function r(a,l){const e=o("ContentDoc");return _(),t("main",null,[c(e)])}const m=n(s,[["render",r]]);export{m as default};
